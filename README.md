@@ -58,4 +58,6 @@ By streamlining complex datasets into digestible and actionable visuals, this pr
 
 Through evidence-backed monitoring and storytelling, the dashboard becomes a silent teammate to every healthcare leader working to make ERs faster, fairer, and more responsive.
 
+## Emergency Room Performance Monitor - Power BI
+![image](https://github.com/layashreeadepu/Emergency-Room-Performance-Monitor/blob/1e2ea1312f835f9d2a1fe8624044bd2e6d6332e3/Screenshot%202025-06-07%20173914.png)
 ---
